@@ -120,6 +120,8 @@ if menu == "🏠 Főoldal":
     ### Széchenyi István Egyetem
 
     **Csoportos Projektlabor**
+    
+    **L05 projektcsoport**
 
     A projekt célja egy olyan mesterséges intelligencia modell létrehozása,
     amely a vörösborok fizikai és kémiai tulajdonságai alapján képes
